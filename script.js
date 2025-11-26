@@ -6,5 +6,5 @@ const funcA=()=>{
 }
 
 const funcB=()=>{
-    alert("funcB")
+    return 5;
 }
